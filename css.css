@@ -4,3 +4,7 @@
 .table-bordered {
       border: 1px solid black !important;
   }
+
+  body, html {
+      overflow-x:hidden;
+  }
